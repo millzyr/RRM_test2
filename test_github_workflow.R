@@ -5,3 +5,5 @@ use_git_config(user.name = "millzyr", user.email = "rrmills93@gmail.com")
 
 use_git(message = "This is a test commit")
 
+usethis::use_github()
+
